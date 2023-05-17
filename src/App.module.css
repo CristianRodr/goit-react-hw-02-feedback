@@ -1,0 +1,30 @@
+li {
+  list-style-type: none;
+  font-size: 24px;
+}
+
+.sub-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.control {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.handling {
+  display: flex;
+  width: 30%;
+  justify-content: space-around;
+}
+
+ul {
+  margin-top: 5px;
+}
+
+button {
+  font-weight: 700;
+}
